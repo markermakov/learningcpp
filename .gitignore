@@ -1,0 +1,17 @@
+# Ignore build and object files
+*.o
+*.obj
+*.exe
+*.out
+*.xcodeproj
+
+# Ignore editor and system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled binaries
+bin/
